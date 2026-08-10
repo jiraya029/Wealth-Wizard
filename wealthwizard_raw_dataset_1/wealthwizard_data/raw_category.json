@@ -1,0 +1,122 @@
+[
+  {
+    "category_id": "C000",
+    "name": "Food",
+    "active_flag": true,
+    "ingested_at": "2026-08-09T16:21:14.575603"
+  },
+  {
+    "category_id": "C001",
+    "name": "Rent",
+    "active_flag": true,
+    "ingested_at": "2026-08-09T16:21:14.575617"
+  },
+  {
+    "category_id": "C002",
+    "name": "Travel",
+    "active_flag": true,
+    "ingested_at": "2026-08-09T16:21:14.575622"
+  },
+  {
+    "category_id": "C003",
+    "name": "Utilities",
+    "active_flag": true,
+    "ingested_at": "2026-08-09T16:21:14.575626"
+  },
+  {
+    "category_id": "C004",
+    "name": "Entertainment",
+    "active_flag": true,
+    "ingested_at": "2026-08-09T16:21:14.575630"
+  },
+  {
+    "category_id": "C005",
+    "name": "Healthcare",
+    "active_flag": true,
+    "ingested_at": "2026-08-09T16:21:14.575634"
+  },
+  {
+    "category_id": "C006",
+    "name": "Education",
+    "active_flag": true,
+    "ingested_at": "2026-08-09T16:21:14.575637"
+  },
+  {
+    "category_id": "C007",
+    "name": "Shopping",
+    "active_flag": true,
+    "ingested_at": "2026-08-09T16:21:14.575645"
+  },
+  {
+    "category_id": "C008",
+    "name": "Groceries",
+    "active_flag": false,
+    "ingested_at": "2026-08-09T16:21:14.575649"
+  },
+  {
+    "category_id": "C009",
+    "name": "Insurance",
+    "active_flag": true,
+    "ingested_at": "2026-08-09T16:21:14.575655"
+  },
+  {
+    "category_id": "C010",
+    "name": "Subscriptions",
+    "active_flag": true,
+    "ingested_at": "2026-08-09T16:21:14.575659"
+  },
+  {
+    "category_id": "C011",
+    "name": "Fuel",
+    "active_flag": true,
+    "ingested_at": "2026-08-09T16:21:14.575662"
+  },
+  {
+    "category_id": "C012",
+    "name": "Fitness",
+    "active_flag": true,
+    "ingested_at": "2026-08-09T16:21:14.575666"
+  },
+  {
+    "category_id": "C013",
+    "name": "Gifts",
+    "active_flag": true,
+    "ingested_at": "2026-08-09T16:21:14.575669"
+  },
+  {
+    "category_id": "C014",
+    "name": "Miscellaneous",
+    "active_flag": true,
+    "ingested_at": "2026-08-09T16:21:14.575673"
+  },
+  {
+    "category_id": "C015",
+    "name": "Salary",
+    "active_flag": true,
+    "ingested_at": "2026-08-09T16:21:14.575676"
+  },
+  {
+    "category_id": "C016",
+    "name": "Freelance",
+    "active_flag": true,
+    "ingested_at": "2026-08-09T16:21:14.575679"
+  },
+  {
+    "category_id": "C017",
+    "name": "Investment Return",
+    "active_flag": true,
+    "ingested_at": "2026-08-09T16:21:14.575683"
+  },
+  {
+    "category_id": "C018",
+    "name": "Refund",
+    "active_flag": true,
+    "ingested_at": "2026-08-09T16:21:14.575687"
+  },
+  {
+    "category_id": "C019",
+    "name": "Uncategorized",
+    "active_flag": true,
+    "ingested_at": "2026-08-09T16:21:14.575690"
+  }
+]
